@@ -24,7 +24,7 @@ Each entry contains the topic to cover, a link to the reading material that we c
 The topics may change based on the discussions and interest of the participants.
 
 * **Time:** Fridays at 13:00 - 14:00.
-* **Room:** XXX at ITU.
+* **Room:** 3A08 at ITU.
 
 | Session Date | Topic                                                                      | Reading                                                                                                                          | Session leader |
 |--------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------|
