@@ -1,21 +1,12 @@
-# PhD Course on Foundations of Probabilistic Programming
+# Seminar on Foundations of Probabilistic Programming
 
 Website of the seminar on Foundations of Probabilistic Programming at IT University of Copenhagen, Autumn 2026.
 
-The course is organized as a reading group. Each week we discuss different topics and research articles on the foundations of probabilistic programming. 
+The seminar is organized as a reading group. Each week we discuss different topics and research articles on the foundations of probabilistic programming. 
 
-#### How to sign up in the course
+## Seminar description
 
-Send an email to [Rasmus Møgelberg](https://researcher.itu.dk/en/persons/rasmus-ejlers-m%C3%B8gelberg/) including: your affiliation, PhD supervisor’s name, title of the PhD project, and a 100 word summary of the PhD project. Include your PhD supervisor (CC) in the email.
-
-* **Deadline for signing-up: XXX**.
-
-*The PhD school at IT University of Copenhagen grants <b>XXX ECTS points for this course</b>. To obtain the credits, students must lead at least one of the sessions in the [schedule below](#schedule).*
-
-
-## Course description
-
-TBW [Perhaps use the same text as for the PhD school?]
+In this seminar, we will read book chapters and articles related to the formal foundations of probabilistic programming. We start with the measure theoretic foundations and their relation to well-established concepts in the theory of programming languages. Then, we cover exact and approximate probabilistic inference methods. The seminar concludes an application of these formal foundations to cryptography.
 
 ## Schedule
 
@@ -49,3 +40,11 @@ The topics may change based on the discussions and interest of the participants.
 * [Raúl Pardo](http://raulpardo.net/), IT University of Copenhagen
 
 *Feel free to send us any questions regarding the course.*
+
+
+
+## PhD students can obtaining ECTS credits
+
+The PhD school at the IT University of Copenhagen will grant ECTS credits for students who: i) attend all sessions and ii) lead at least one session.
+
+If you would like to obtain the credits, please send an email to [Rasmus Møgelberg](https://researcher.itu.dk/en/persons/rasmus-ejlers-m%C3%B8gelberg/) including: your affiliation, PhD supervisor’s name, title of the PhD project, and a 100 word summary of the PhD project. Include your PhD supervisor (CC) in the email.
