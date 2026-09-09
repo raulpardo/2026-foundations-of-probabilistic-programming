@@ -11,7 +11,7 @@ In this seminar, we will read book chapters and articles related to the formal f
 ## Schedule
 
 The table below shows the (tentative) schedule of the course, which is composed by 13 sessions. 
-Each entry contains the topic to cover, a link to the reading material that we cover in each session, and person who leads the session.
+Each entry contains the topic to cover, a link to the reading material that we cover in each session, and the name of the person who leads the session.
 The topics may change based on the discussions and interest of the participants.
 
 * **Time:** Fridays at 13:00 - 14:00.
