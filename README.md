@@ -39,11 +39,11 @@ The topics may change based on the discussions and interest of the participants.
 * [Rasmus Møgelberg](https://researcher.itu.dk/en/persons/rasmus-ejlers-m%C3%B8gelberg/), IT University of Copenhagen
 * [Raúl Pardo](http://raulpardo.net/), IT University of Copenhagen
 
-*Feel free to send us any questions regarding the course.*
+*Feel free to send us any questions regarding the seminar.*
 
 
 
-## PhD students can obtaining ECTS credits
+## ECTS credits for PhD students
 
 The organisers will apply the PhD school for preapproval of PhD credit for attending the seminar. If granted, students can obtain a few ECTS credit if they: i) attend all sessions and ii) lead at least one session.
 
