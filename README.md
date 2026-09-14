@@ -13,6 +13,7 @@ In this seminar, we will read book chapters and articles related to the formal f
 The table below shows the (tentative) schedule of the course, which is composed by 13 sessions. 
 Each entry contains the topic to cover, a link to the reading material that we cover in the session, and the name of the person who leads the session.
 The topics may change based on the discussions and interest of the participants.
+The session leaders below are tentative and may change. Priority will be given to PhD students.
 
 * **Time:** Fridays at 13:00 - 14:00.
 * **Room:** 3A08 at ITU.
@@ -20,16 +21,16 @@ The topics may change based on the discussions and interest of the participants.
 | Session Date | Topic                                                                      | Reading                                                                                                                          | Session leader |
 |--------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------|
 | Sep 18       | Probability basics and semantics of probabilistic programming              | [FPP, Chapter 1](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE) | TBD            |
-| Sep 25       | Probability basics and semantics of probabilistic programming              | [FPP, Chapter 1](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE) | TBD            |
+| Sep 25       | Probability basics and semantics of probabilistic programming              | [FPP, Chapter 1](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE) | Alessandro Bruni            |
 | Oct 2        | Quasi Borel Spaces                                                                        | [Heunen et al](https://arxiv.org/abs/1701.02547)                                                                                                                              | TBD            |
 | Oct 9        | Quasi Borel Spaces                                                                      | [Heunen et al](https://arxiv.org/abs/1701.02547)                                                                                                                                | TBD            |
 | Oct 16       | *No session*                                                               |                                                                                                                                  |                |
 | Oct 23       | Monads, computational metalanguage, free monads and algebraic theories     | TBD                                                                                                                              | TBD            |
-| Oct 30       | Probabilistic programs as measures                                         | [FPP, Chapter 2](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE) | TBD            |
+| Oct 30       | Probabilistic programs as measures                                         | [FPP, Chapter 2](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE) | Ola Rønning            |
 | Nov 6        | Probabilistic programs as measures                                         | [FPP, Chapter 2](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE) | TBD            |
 | Nov 13       | Markov Chain Monte Carlo                                                   | [Mackay, Chapter 29](https://www.inference.org.uk/mackay/itila/book.html)                                                        | Raúl Pardo     |
 | Nov 20       | Inference of Probabilistic Programs with Moment-Matching Gaussian Mixtures | [Randone et al. 2023](https://arxiv.org/pdf/2311.08235)                                                                          | TBD            |
-| Nov 27       | A Probabilistic Separation Logic                                           | [Barthe et al. 2020](https://arxiv.org/abs/1907.10708)                                                                           | TBD            |
+| Nov 27       | A Probabilistic Separation Logic                                           | [Barthe et al. 2020](https://arxiv.org/abs/1907.10708)                                                                           | Jesper Bengtson            |
 | Dec 4        | A Probabilistic Separation Logic                                           | [Barthe et al. 2020](https://arxiv.org/abs/1907.10708)                                                                           | TBD            |
 | Dec 11       | Formal Certification of Code-Based Cryptographic Proofs                    | [Barthe et al. 2009](https://software.imdea.org/~szanella/Zanella.2009.POPL.pdf)                                                 | TBD            |
 | Dec 18       | Formal Certification of Code-Based Cryptographic Proofs                    | [Barthe et al. 2009](https://software.imdea.org/~szanella/Zanella.2009.POPL.pdf)                                                 | TBD            |
