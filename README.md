@@ -46,6 +46,6 @@ The session leaders below are tentative and may change. Priority will be given t
 
 ## ECTS credits for PhD students
 
-The organisers will apply the PhD school for preapproval of PhD credit for attending the seminar. If granted, students can obtain a few ECTS credit if they: i) attend all sessions and ii) lead at least one session.
+The PhD school at ITU has approved the seminar as a PhD course for 2.5 ECTS. To obtain the ECTS credit students must: i) attend all sessions and ii) lead at least one session.
 
 If you would like to obtain the credits, please send an email to [Rasmus Møgelberg](https://researcher.itu.dk/en/persons/rasmus-ejlers-m%C3%B8gelberg/) including: your affiliation, PhD supervisor’s name, title of the PhD project, and a 100 word summary of the PhD project. Include your PhD supervisor (CC) in the email.
