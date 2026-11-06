@@ -30,10 +30,10 @@ The session leaders below are tentative and may change. Priority will be given t
 | Nov 6        | Probabilistic programs as measures                                         | [FPP, Chapter 2](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE) | Maja Aaslyng Dall           |
 | Nov 13       | Markov Chain Monte Carlo                                                   | [Mackay, Chapter 29](https://www.inference.org.uk/mackay/itila/book.html)                                                        | Raúl Pardo     |
 | Nov 20       | Inference of Probabilistic Programs with Moment-Matching Gaussian Mixtures | [Randone et al. 2023](https://arxiv.org/pdf/2311.08235)                                                                          | Oleg Jarma            |
-| Nov 27       | A Probabilistic Separation Logic                                           | [Barthe et al. 2020](https://arxiv.org/abs/1907.10708)                                                                           |    Maria Bendix Mikkelsen         |
-| Dec 4        | A Probabilistic Separation Logic                                           | [Barthe et al. 2020](https://arxiv.org/abs/1907.10708)                                                                           | Jesper Bengtson           |
-| Dec 11       | Formal Certification of Code-Based Cryptographic Proofs                    | [Barthe et al. 2009](https://software.imdea.org/~szanella/Zanella.2009.POPL.pdf)                                                 | TBD            |
-| Dec 18       | Formal Certification of Code-Based Cryptographic Proofs                    | [Barthe et al. 2009](https://software.imdea.org/~szanella/Zanella.2009.POPL.pdf)                                                 | TBD            |
+| Nov 27       | Reasoning using couplings                                           | [FPP chp 5](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/probabilistic-couplings-from-program-logics/4770E67B4DBCAABA74D06C30B802235A)                                          |    Maria Bendix Mikkelsen         |
+| Dec 4        | Reasoning using couplings                                           | [FPP chp 5](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/probabilistic-couplings-from-program-logics/4770E67B4DBCAABA74D06C30B802235A) |    TBD        |
+| Dec 11       | A Probabilistic Separation Logic                                           | [Barthe et al. 2020](https://arxiv.org/abs/1907.10708)                                                | Jesper Bengtson            |
+| Dec 18       | A Probabilistic Separation Logic                                           | [Barthe et al. 2020](https://arxiv.org/abs/1907.10708)                                               | Markus Krabbe Larsen            |
 	
 
 ## Organizers
